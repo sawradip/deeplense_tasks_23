@@ -34,7 +34,7 @@ It is a commonly used loss function in deep learning that measures the average s
 
 # Models: Weights and Summary
 
-All trained model weights and `model.json` files are available here
+All trained model weights and `model.json` files are available [here](https://drive.google.com/drive/folders/128pVTQvZKHa8ShqvrUF2KBlCdEFKEYlJ?usp=sharing).
 
 | Model Name | MSE | Normalized RMSE |
 |------------|-----|----------|
