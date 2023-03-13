@@ -36,8 +36,7 @@ As someone with a deep interest in astronomy, I have studied the phenomenon of g
 
 
 ## Tasks Summary
-
-### Common Test I: Multi-Class Classification (Common)
+### Common Test I: [Multi-Class Classification](deeplense_task1) (Common)
 
 `Task`: Build a model for classifying the images into lenses using PyTorch or Keras. Pick the most appropriate approach and discuss your strategy.
 
@@ -50,7 +49,7 @@ As someone with a deep interest in astronomy, I have studied the phenomenon of g
 
 The notebook can be  also used with Google Colab.
 
-### Specific Test II. Lens Finding (Interest)
+### Specific Test II: [Lens Finding](deeplense_task2)
 
 *Those interested in the Lens Finding Project should complete Test II.*
 
@@ -65,7 +64,8 @@ The notebook can be  also used with Google Colab.
 
 The notebook can be  also used with Google Colab.
 
-### Specific Test III: Learning Mass of Dark Matter Halo 
+### Specific Test III: [Learning Mass of Dark Matter Halo](deeplense_task3)
+
 *Those interested in the Regression Project should complete Test III.*\
 *Those interested in Extending the DeepLense Pipeline should complete Test III.*
 
