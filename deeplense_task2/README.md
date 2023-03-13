@@ -41,7 +41,36 @@ The AUC score (Area Under the ROC Curve) is a scalar metric that summarizes the 
 
 # Models: Weights and Summary
 
-All trained model weights and `model.json` files are available here
+All trained model weights and `model.json` files are available [here](https://drive.google.com/drive/folders/10s6qrFXgs_4UHfN0Grh3XgWXEAGwOjac?usp=sharing).
+
+| Model Name | AUC | Accuracy |
+|------------|-----|----------|
+| convit_tiny   | 0.9114 | 83.00  |
+| vit_tiny_patch16_224    | 0.8973 | 81.61     |
+| rersnet18    | 0.8604 | 80.55    |
+| efficientnetv2_s | 0.5677| 68.05  |
+
+
+
+## Model: convnext_pico
+
+### ROC curve and AUC:
+![convnext_pico-ROC](convnext_pico/convnext_pico%20-%20ROC.png)
+### Loss curve:
+![convnext_pico-loss](convnext_pico/convnext_pico%20-%20loss.png)
+### Accuracy Curve:
+![convnext_pico-Accuracy](convnext_pico/convnext_pico%20-%20Accuracy.png)
+
+
+## Model: vit_tiny_patch16_224
+
+### ROC curve and AUC:
+![vit_tiny_patch16_224-ROC](vit_tiny_patch16_224/vit_tiny_patch16_224%20-%20ROC.png)
+### Loss curve:
+![vit_tiny_patch16_224-loss](vit_tiny_patch16_224/vit_tiny_patch16_224%20-%20loss.png)
+### Accuracy Curve:
+![vit_tiny_patch16_224-Accuracy](vit_tiny_patch16_224/vit_tiny_patch16_224%20-%20Accuracy.png)
+
 
 ## Model: resnet18
 
@@ -53,25 +82,14 @@ All trained model weights and `model.json` files are available here
 ![resnet18-Accuracy](resnet18/resnet18%20-%20Accuracy.png)
 
 
-## Model: vit_tiny_patch16_224
+## Model: efficientnetv2_s
 
 ### ROC curve and AUC
-![vit_tiny_patch16_224-ROC](vit_tiny_patch16_224/vit_tiny_patch16_224%20-%20ROC.png)
+![efficientnetv2_s-ROC](efficientnetv2_s/efficientnetv2_s%20-%20ROC.png)
 ### Loss curve
-![vit_tiny_patch16_224](vit_tiny_patch16_224/vit_tiny_patch16_224%20-%20loss.png)
+![efficientnetv2_s-loss](efficientnetv2_s/efficientnetv2_s%20-%20loss.png)
 ### Accuracy Curve
-![vit_tiny_patch16_224](vit_tiny_patch16_224/vit_tiny_patch16_224%20-%20Accuracy.png)
-
-
-## Model: vit_tiny_patch16_224
-
-### ROC curve and AUC
-![vit_tiny_patch16_224-ROC](vit_tiny_patch16_224/vit_tiny_patch16_224%20-%20ROC.png)
-### Loss curve
-![vit_tiny_patch16_224](vit_tiny_patch16_224/vit_tiny_patch16_224%20-%20loss.png)
-### Accuracy Curve
-![vit_tiny_patch16_224](vit_tiny_patch16_224/vit_tiny_patch16_224%20-%20Accuracy.png)
-
+![efficientnetv2_s-Accuracy](efficientnetv2_s/efficientnetv2_s%20-%20Accuracy.png)
 
 
 

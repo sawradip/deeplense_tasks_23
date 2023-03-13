@@ -41,57 +41,60 @@ The AUC score (Area Under the ROC Curve) is a scalar metric that summarizes the 
 
 # Models: Weights and Summary
 
-All trained model weights and `model.json` files are available here
+All trained model weights and `model.json` files are available [here](https://drive.google.com/drive/folders/1-0HzOj67VaMwDwAr3gqgd55QdLuvZp0d?usp=sharing).
+
+| Model Name | AUC | Accuracy |
+|------------|-----|----------|
+| rersnet18    | 0.9924 | 95.58    |
+| efficientnet_b0 | 0.9704| 93.41  |
+| convit_tiny   | 0.8826 | 95.58  |
+| resnet26    | 0.5528 | 89.48     |
 
 ## Model: resnet18
 
-
-### ROC curve and AUC
+### ROC curve and AUC:
 ![rersnet18-ROC](resnet18/resnet18%20-%20ROC.png)
 
-### Loss curve
+### Loss curve:
 ![rersnet18-Loss](resnet18/resnet18%20-%20loss.png)
 
-### Accuracy Curve
+### Accuracy Curve:
 ![resnet18-Accuracy](resnet18/resnet18%20-%20Accuracy.png)
-
-
-## Model: resnet26
-
-### ROC curve and AUC
-![resnet26-ROC](resnet26/resnet26%20-%20ROC.png)
-
-### Loss curve
-![resnet26-Loss](resnet26/resnet26%20-%20loss.png)
-
-### Accuracy Curve
-![resnet26-Accuracy](resnet26/resnet26%20-%20Accuracy.png)
-
 
 
 ## Model: efficientnet_b0
 
-### ROC curve and AUC
+### ROC curve and AUC:
 ![efficientnet_b0-ROC](efficientnet_b0/efficientnet_b0%20-%20ROC.png)
 
-### Loss curve
+### Loss curve:
 ![efficientnet_b0-Loss](efficientnet_b0/efficientnet_b0%20-%20loss.png)
 
-### Accuracy Curve
+### Accuracy Curve:
 ![efficientnet_b0-Accuracy](efficientnet_b0/efficientnet_b0%20-%20Accuracy.png)
 
 
 
 ## Model: convit_tiny
 
-[[Best Weights]()] [[model.json]()]
-
-### ROC curve and AUC
+### ROC curve and AUC:
 ![convit_tiny-ROC](convit_tiny/convit_tiny%20-%20ROC.png)
-### Loss curve
+### Loss curve:
 ![convit_tiny-Loss](convit_tiny/convit_tiny%20-%20loss.png)
-### Accuracy Curve
+### Accuracy Curve:
 ![convit_tiny-Accuracy](convit_tiny/convit_tiny%20-%20Accuracy.png)
+
+
+## Model: resnet26
+
+### ROC curve and AUC:
+![resnet26-ROC](resnet26/resnet26%20-%20ROC.png)
+
+### Loss curve:
+![resnet26-Loss](resnet26/resnet26%20-%20loss.png)
+
+### Accuracy Curve:
+![resnet26-Accuracy](resnet26/resnet26%20-%20Accuracy.png)
 
 
 # Comments
