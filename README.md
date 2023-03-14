@@ -47,7 +47,8 @@ As someone with a deep interest in astronomy, I have studied the phenomenon of g
 | efficientnet_b0 | 0.9704| 0.90  |
 | convit_tiny   | 0.8826 | 0.1618  |
 
-The notebook can be  also used with Google Colab.
+The notebook can be  also used with Google Colab:
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb](https://colab.research.google.com/github/sawradip/deeplense_tasks_23/blob/main/deeplense_task1/Task1_updated.ipynb))
 
 ### Specific Test II: [Lens Finding](deeplense_task2)
 
@@ -62,7 +63,8 @@ The notebook can be  also used with Google Colab.
 | rersnet18    | 0.8604 | 80.55    |
 | efficientnetv2_s | 0.5677| 68.05  |
 
-The notebook can be  also used with Google Colab.
+The notebook can be  also used with Google Colab:
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb](https://colab.research.google.com/github/sawradip/deeplense_tasks_23/blob/main/deeplense_task2/Task2_updated.ipynb))
 
 ### Specific Test III: [Learning Mass of Dark Matter Halo](deeplense_task3)
 
@@ -77,7 +79,8 @@ The notebook can be  also used with Google Colab.
 | resnet26    | 8.39e-05 | 0.201     |
 | convnext_pico    | 2.14e-04| 0.352     |
 
-The notebook can be  also used with Google Colab.
+The notebook can be  also used with Google Colab: 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb](https://colab.research.google.com/github/sawradip/deeplense_tasks_23/blob/main/deeplense_task3/Task3_updated.ipynb))
 
 
 ### Specific Test V: [Exploring Transformers](deeplense_task5)
@@ -93,7 +96,8 @@ The notebook can be  also used with Google Colab.
 | vit_tiny_patch16_224    | 0.9938 | 96.2     |
 | convit_tiny | 0.9901| 95.6  |
 
-The notebook can be  also used with Google Colab.
+The notebook can be  also used with Google Colab:
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb](https://colab.research.google.com/github/sawradip/deeplense_tasks_23/blob/main/deeplense_task5/Task5_updated.ipynb))
 
 
 
