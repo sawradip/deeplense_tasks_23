@@ -101,7 +101,7 @@ From the highest achieved accuracy, we can come to a decision that thisdataset i
 
 Further exploration can be done:
 * Add an image brightness term to the Loss function, that might  have direct relation  with the  result.
-* Experiment with LR Scheduler
+* Experiment with LR Scheduler.
 
 
 

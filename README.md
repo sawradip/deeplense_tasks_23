@@ -42,10 +42,10 @@ As someone with a deep interest in astronomy, I have studied the phenomenon of g
 
 | Model Name | AUC | Accuracy |
 |------------|-----|----------|
-| rersnet18    | 0.9924 | 0.85    |
-| resnet26    | 0.5528 | 0.75     |
-| efficientnet_b0 | 0.9704| 0.90  |
-| convit_tiny   | 0.8826 | 0.1618  |
+| rersnet18    | 0.9924 | 95.58    |
+| efficientnet_b0 | 0.9704| 93.41  |
+| convit_tiny   | 0.8826 | 95.58  |
+| resnet26    | 0.5528 | 89.48     |
 
 The notebook can be  also used with Google Colab.
 
