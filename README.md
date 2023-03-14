@@ -80,6 +80,21 @@ The notebook can be  also used with Google Colab.
 The notebook can be  also used with Google Colab.
 
 
+### Specific Test V: [Exploring Transformers](deeplense_task3)
+
+*Those interested in the Transformer Project should complete Test V.*
+
+`Task`: Use a vision transformer method of your choice to build a robust and efficient model for binary classification or unsupervised anomaly detection on the provided dataset. In the case of unsupervised anomaly detection, train your model to learn the distribution of the provided strong lensing images with no substructure. Please implement your approach in PyTorch or Keras and discuss your strategy.
+
+| Model Name | AUC | Accuracy |
+|------------|-----|----------|
+| gcvit_tiny    | 0.9954 | 97.4    |
+| swin_s3_tiny_224   | 0.9952 | 96.3  |
+| vit_tiny_patch16_224    | 0.9938 | 96.2     |
+| convit_tiny | 0.9901| 95.6  |
+
+The notebook can be  also used with Google Colab.
+
 
 
 

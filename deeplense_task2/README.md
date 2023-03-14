@@ -92,6 +92,18 @@ All trained model weights and `model.json` files are available [here](https://dr
 ![efficientnetv2_s-Accuracy](efficientnetv2_s/efficientnetv2_s%20-%20Accuracy.png)
 
 
+# Comments
+
+We see that, `convnext_pico` have performed bestamong the models. But it has achieved a AUC  score of 0.9114. The second best one is `ViT` models that achieves 0.8973. So, it can be said that these types of models, specifically Transformer architectures might work betteron this dataset.
+
+From the highest achieved accuracy, we can come to a decision that thisdataset is comparatively hasrder to classify, and there is a lot room for improvement.
+
+
+Further exploration can be done:
+* Add an image brightness term to the Loss function, that might  have direct relation  with the  result.
+* Experiment with LR Scheduler
+
+
 
 
 

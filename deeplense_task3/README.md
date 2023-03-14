@@ -75,9 +75,7 @@ Though we get best performance with `resnet18` , the training curves show  that 
 
 Further exploration can be done:
 * Adding some part to the loss function related to pixel brightness, or number of pixels over a certian treshold value, as existance of a larger Halo mass, would lead to larger  gravitational lensing. It should improve the performance.
-* Elaborate hyperparameter search
 * Training with higher patience of Early Stopping
-* Training with different architectures
 
 
 

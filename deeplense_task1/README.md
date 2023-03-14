@@ -104,8 +104,8 @@ I have tried models from  different families. While we compare between `resnet18
 While looking at plots of `convit_tiny`, we see that the performance was in the rising trend, and we would have gotten much better results if early stopping had a higher value of patience.
 
 Further exploration can be done:
+* Adding a regularization term, to solve  the problem of overfitting  for some models(Specially larger ones).
+* Experiment with LR Scheduler
 * Elaborate hyperparameter search
-* Training with higher patience of Early Stopping
-* Training with different architectures
 
 
