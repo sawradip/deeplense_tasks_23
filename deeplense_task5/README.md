@@ -7,7 +7,7 @@ Use a vision transformer method of your choice to build a robust and efficient m
 
 ## Dataset 
 
-Test 2 dataste is available [here](https://drive.google.com/file/d/16Y1taQoTeUTP5rGpB0tuPZ_S30acvnqr/view?usp=sharing)
+Test 5 dataste is available [here](https://drive.google.com/file/d/16Y1taQoTeUTP5rGpB0tuPZ_S30acvnqr/view?usp=sharing)
 
 A set of simulated strong gravitational lensing images with and without substructure.
 The dataset contains images of two classes, `sub`and `no_sub`.
